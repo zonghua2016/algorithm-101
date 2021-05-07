@@ -33,5 +33,6 @@ function isAnagram2(s, t) {
 }
 
 const s = "anagram", t = "nagaram"
+// const s = "rat", t = "car"
 // console.log(isAnagram1(s, t));
 console.log(isAnagram2(s, t));
